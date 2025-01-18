@@ -4,3 +4,9 @@
 [submodule "toolchain"]
 	path = toolchain
 	url = https://github.com/Archana-Berry-OS/toolchain.git
+[submodule "linker"]
+	path = linker
+	url = https://github.com/Archana-Berry-OS/linker.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/Archana-Berry-OS/lib.git
