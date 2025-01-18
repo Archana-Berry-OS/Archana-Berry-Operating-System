@@ -1,3 +1,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/Archana-Berry-OS/kernel.git
+[submodule "toolchain"]
+	path = toolchain
+	url = https://github.com/Archana-Berry-OS/toolchain.git
